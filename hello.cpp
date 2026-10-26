@@ -1,8 +1,15 @@
 #include <iostream>
 
+int add(int a, int b){
+
+}
+
+int mult(int a, int b){
+    
+}
 using namespace std;
 
 int main(){
-    cout << "Hello Innocent" << endl;
+    cout << "This is from Innocent branch" << endl;
     return 0;
 }
